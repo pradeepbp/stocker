@@ -1,0 +1,4 @@
+1. Use ticker codes from Yahoo! (of course, at your own risk).
+2. Dont't  atttempt to delete BSE India, you can't. It's the mother of all.
+3. If you want more info, read the source code.
+4. And, never use this script to run a nuclear plant or a space shuttle; it is not meant for mission critical things (or in other words, don't take the whole thing seriously).
